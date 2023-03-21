@@ -2,7 +2,7 @@
 
 # Salut! 👋, Welcome 
 
-I'm @casssi, a curious student, currently in M1 of information systems,  
+I'm @casssi, a curious student, currently in M2 of Cyber Security,  
 always motivated to work on new projects and to get my head around it.  
 I can work on various types of topics, thanks to my knowledge in web/application development,  
 machine learning and cybersecurity.  

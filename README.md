@@ -4,5 +4,5 @@
 
 I'm @casssi, a Cybersecurity Enthusiast, always motivated to work on new projects and tools.  
 I enjoy analysing and putting my mind fully into my tasks.  
-Thanks to my background and experiences I can work in various areas of cybersecurity, this include physical access, network, host, app and data.  
+Thanks to my background & experiences I can work in various areas of cybersecurity, this include physical access, network, host, app and data.  
 In addition, I have solid knowledge in application development and machine learning.  

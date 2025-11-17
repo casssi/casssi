@@ -1,9 +1,12 @@
 ![Bannière](https://user-images.githubusercontent.com/61418715/165028849-7dcef408-b548-41c8-b164-847422dfb042.png)
 
-# Salut! 👋, Welcome 
+# Salut/Hi! 👋, Welcome 
 
-I'm @casssi, a curious student, currently in M2 of Cyber Security,  
-always motivated to work on new projects and to get my head around it.  
-I can work on various types of topics, thanks to my knowledge in web/application development,  
-machine learning and cybersecurity.  
+I'm @casssi, a Cybersecurity Enthusiast,  
+always motivated to work on new projects and tools.
+I enjoy analysing and putting my mind fully into my tasks.  
+Thanks to my background and experiences I can work in various areas of cybersecurity,
+this include physical access, network, host, app and data.
+In addition, I have solid knowledge in application development  
+and machine learning.  
 
